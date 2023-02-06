@@ -1,2 +1,2 @@
 console.log(' Produxt is model. Thats ok');
-console.log(' Xong');
+console.log(' Xone');

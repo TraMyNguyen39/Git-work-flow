@@ -1,0 +1,1 @@
+console.log(' Produxt is model. Thats ok');

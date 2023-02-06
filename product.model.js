@@ -1,1 +1,1 @@
-console.log(' Produxt is model');
+console.log(' Produxt is model. Thats ok');
